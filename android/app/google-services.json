@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "382056056870",
+    "project_id": "cafestorage-968bd",
+    "storage_bucket": "cafestorage-968bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382056056870:android:1155de48299a6224613ee7",
+        "android_client_info": {
+          "package_name": "com.example.coffee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382056056870-j4l5b9etreguuap79eerv01g8ucv6ohj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxkt-ITid5C--Ak96mQDAqDb_cYk9ijQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382056056870-j4l5b9etreguuap79eerv01g8ucv6ohj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "382056056870-8sdcg9srvn4kqii5ot0ucsiubeb9ut9s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.coffeeCap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
